@@ -1,6 +1,6 @@
 # API Lista de Contatos
 
-Disponível em: https://contactslist.azurewebsites.net/api/v1/
+Disponível em: https://contactslist.azurewebsites.net/api/v1/contacts
 
 ### Método POST:
 O método post recebe um JSON com três campos, sendo todos eles obrigatórios:
